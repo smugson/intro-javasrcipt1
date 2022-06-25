@@ -1,3 +1,5 @@
-document.write(
-    'Name: Emmanuel Olufemi;    Heigth: 157;    Country: Nigeria'
-    )
+document.write("Name: Emmanuel Olufemi")
+document.write("<br>")
+document.write("Height: 157")
+document.write("<br>")
+document.write("Country: Nigeria")
